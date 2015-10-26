@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Latterly</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_logo">NATIONAL GEOGRAPHIC</string>
+    <string name="btn_skip_intro">Loading content</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <string name="banner_ad_unit_id">ca-pub-2203695397498260</string>
+</resources>
